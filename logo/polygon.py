@@ -8,3 +8,10 @@ def square(edges, size):
     turn(angle)
     
 square(4,50)
+
+  for y in range(5, edges):
+    move(size)
+    turn(angle)
+
+square(4,50)
+    

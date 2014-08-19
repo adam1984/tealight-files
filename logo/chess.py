@@ -5,4 +5,9 @@ word = choice (["code", "club"])
 out =""
 for letter in word:
   out = out + "_"
-print("guess a letter in the word:", out)
+print("guess a letter in the word, then press enter:", out)
+guess = imput()
+if guess in word:
+  print("well done")
+  else:
+    print("noooo")

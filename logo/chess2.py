@@ -3,8 +3,8 @@ from tealight.logo import move, turn, color
 def square(edges, size):
   angle = 360/ edges
   for i in range(0,200,5 edges):
-    move(size)
-    turn(angle)
+    move(i)
+    turn(83)
     
 square(10,100)
 

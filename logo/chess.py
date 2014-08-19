@@ -11,9 +11,9 @@ for letter in word:
   
 print("guess a letter in the word, then press enter:", out)
 
-guess = input()
+#guess = input()
 
-if guess in word:
-  print("well done")
-else:
-    print("noooo")
+#if guess in word:
+#  print("well done")
+#else:
+ #   print("noooo")

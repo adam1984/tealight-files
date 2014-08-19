@@ -1,5 +1,10 @@
-print "A new file!"
+#a list of letters to encrypt
+alphabet = 
+"abcdefghijklmnopqrstuvwxyz"
 
-from tkinter import *
+#the secret key is 3
+key = 3
 
-main = Tk()
+character = input("please enter a character to encrypt: ")
+
+

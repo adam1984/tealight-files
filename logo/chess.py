@@ -17,6 +17,6 @@ turn(-90)
 move(300)
 
 turn(-180)
-move(50)
+move(20)
 turn(-90)
 move(300)

@@ -2,9 +2,6 @@ from tealight.logo import move, turn
 
 def square(edges, size):
   angle = 360.0 / edges
-
-def sq(edges, size):
-  angle = 360.0 / edges
   
   for i in range(0, edges):
     move(size)
@@ -16,5 +13,5 @@ square(4,50)
     move(size)
     turn(angle)
 
-sq(4,50)
+square(4,100)
     

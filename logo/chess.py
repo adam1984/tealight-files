@@ -1,3 +1,5 @@
 from tealight.logo import move, turn, color
 
-print hi
+from random import choice 
+word = choice (["code", "club"])
+print(word)

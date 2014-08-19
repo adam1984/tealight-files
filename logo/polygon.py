@@ -6,7 +6,7 @@ def square(edges, size):
 def sq(edges, size):
   angle = 360.0 / edges
   
-  for i in range(0, edges):
+for i in range(0, edges):
     move(size)
     turn(angle)
     

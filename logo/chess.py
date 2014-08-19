@@ -9,5 +9,5 @@ print("guess a letter in the word, then press enter:", out)
 guess = imput()
 if guess in word:
   print("well done")
-  else:
+ else:
     print("noooo")

@@ -8,7 +8,6 @@ from tealight.robot import (move,
 
 # Add your code heredef spiral(size):
   
-  if size > 500:
     return
   
   move(size)

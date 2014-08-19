@@ -11,6 +11,8 @@ move(300)
 turn(-90)
 move(300)
 
+n = 1
+
 turn(-90)
 move(50)
 turn(-90)

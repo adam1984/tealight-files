@@ -7,4 +7,4 @@ def square(edges, size):
     move(size)
     turn(angle)
     
-square(4,70)
+square(4,50)

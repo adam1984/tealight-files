@@ -20,3 +20,20 @@ turn(180)
 move(-300)
 segment(600,6)
 move(-300)
+
+if detail == 0:
+    move(scale)
+  else:
+    segment(scale / 3.0, detail - 1)
+    turn(-60)
+    segment(scale / 3.0, detail - 1)
+    turn(120)
+    segment(scale / 3.0, detail - 1)
+    turn(-60)
+    segment(scale / 3.0, detail - 1)
+    
+
+turn(180)
+move(-300)
+segment(600,6)
+move(-300)

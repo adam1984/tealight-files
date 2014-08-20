@@ -1,5 +1,3 @@
-print "A new file!"
-
 from math import sqrt
 
 def factorise(n):

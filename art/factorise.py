@@ -8,6 +8,5 @@ def factorise(n):
       return
     print n
     
-    factorise(100)
+    factorise(15600)
     
-    print data

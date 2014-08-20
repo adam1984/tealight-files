@@ -34,7 +34,7 @@ def handle_mousemove(x,y):
   circle(lastx or x, lasty or y, x)
   
   #color("hsl(%d,100%%,50%%)" % hue)
-  color("rgba(255,0,0,0.5)" % hue)
+  color("rgba(255,0,0,0.6)" % hue)
   
   box(lastx or x, lasty or y, x, y)
   

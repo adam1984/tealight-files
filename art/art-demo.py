@@ -32,8 +32,9 @@ def handle_mousemove(x,y):
   
   #line(lastx or x, lasty or y, x, y)
   #circle(lastx or x, lasty or y, x)
+  #box(lastx or x, lasty or y, x, y)
   
-  box(lastx or x, lasty or y, x, y)
+  spot(lastx or x, lasty or y, x)
   color("hsl(%d,100%%,50%%)" % hue)
   
   hue += 1

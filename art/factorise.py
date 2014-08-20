@@ -9,3 +9,5 @@ def factorise(n):
     print n
     
     factorise(100)
+    
+    print data

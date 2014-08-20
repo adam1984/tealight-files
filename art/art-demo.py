@@ -36,6 +36,7 @@ def handle_mousemove(x,y):
   
   spot(lastx or x, lasty or y, x)
   color("hsl(%d,100%%,50%%)" % hue)
+  {background-color:rgba(255,0,0,0.3);}
   
   hue += 1
   

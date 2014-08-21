@@ -16,6 +16,7 @@ triangle(50,50,50)
 
 x=0 
   while x < 8:
+    triangle.rotate(45)
 
 #triangle.rotate(angle=pi/4, axis=axis, origin=pos)
  # radians(360) is equal to 2*pi

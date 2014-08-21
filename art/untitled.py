@@ -24,7 +24,7 @@ def fill_triangle(x,y,size,angle=0):
 
 m_a = 0
 
-line_width(3)
+line_width(3
 def handle_frame():
   global m_a
   

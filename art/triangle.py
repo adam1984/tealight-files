@@ -13,7 +13,6 @@ def triangle(x,y,size):
 
 
 triangle(50,50,50) 
-
 x=0 
   while x < 8:
     triangle.rotate(45)

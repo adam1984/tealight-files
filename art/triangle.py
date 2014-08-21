@@ -1,5 +1,5 @@
 from tealight.art import fill_polygon
-from math import sin, cos, pi, theta
+from math import sin, cos, pi,
 
 def triangle(x,y,size):
   x0 = x + size* sin(0)

@@ -13,6 +13,9 @@ def triangle(x,y,size):
 
 triangle(50,50,50) 
 
+triangle.rotate(angle=pi/4, axis=axis, origin=pos)
+
+
 def triangle2(x,y,size):
   x0 = x + size* sin(0)
   y0 = y + size* cos(0)

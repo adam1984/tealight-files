@@ -14,8 +14,8 @@ def triangle(x,y,size):
 triangle(50,50,50) 
 
 triangle.rotate(angle=pi/4, axis=axis, origin=pos)
-radians(360) is equal to 2*pi:
-degrees(2*pi) is equal to 360
+  radians(360) is equal to 2*pi
+  degrees(2*pi) is equal to 360
 
 
 def triangle2(x,y,size):

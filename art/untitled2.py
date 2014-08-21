@@ -1,1 +1,1 @@
-import github.LeszekSwirski.art.traingle_anim
+from github.LeszekSwirski.art.traingle_anim import *

@@ -11,8 +11,10 @@ def triangle(x,y,size):
   
   fill_polygon([(x0,y0),(x1,y1),(x2,y2)])
 
-triangle.setFillColor('black'):
+
 triangle(50,50,50) 
+
+x=0 
 
 #triangle.rotate(angle=pi/4, axis=axis, origin=pos)
  # radians(360) is equal to 2*pi

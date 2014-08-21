@@ -1,1 +1,1 @@
-import github.LeszekSwirski.art.triangle_anim
+import github.LeszekSwirski.art.traingle_anim

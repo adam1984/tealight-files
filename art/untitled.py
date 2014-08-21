@@ -1,3 +1,4 @@
+import math
 def rotatePolygon(polygon,theta):
     """Rotates the given polygon which consists of corners represented as (x,y),
     around the ORIGIN, clock-wise, theta degrees"""
